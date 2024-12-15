@@ -1,0 +1,21 @@
+{
+  "name": "developer_connect",
+  "version": "1.0.0",
+  "description": "Place for Developers Connect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJs",
+    "MongoDB",
+    "APIs",
+    "React",
+    "Express"
+  ],
+  "author": "BaluPasumarthi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
